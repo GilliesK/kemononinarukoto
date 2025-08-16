@@ -1,0 +1,29 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "fourth"
+title : "About the Author"
+content: |
+  Born in Kumamoto Prefecture in 1978, Kyohei Sakaguchi is a multifaceted Japanese artist, <br>
+  excelling as a writer, architect, musician, and painter. He graduated from Waseda University's <br>
+  School of Science and Engineering, Department of Architecture, in 2001. <br>
+  <br>
+
+  Sakaguchi gained recognition in 2004 with his photo book, 0-Yen House, which documented the <br>
+  dwellings of homeless individuals. This work served as the basis for his literary debut in 2008 <br>
+  with TOKYO 0-Yen House 0-Yen Life. <br>
+  <br>
+
+  In 2011, following the Great East Japan Earthquake, he controversially assumed the role of <br>
+  "Prime Minister of the New Government," an experience that led to his highly discussed book, <br>
+  How to Build an Independent Nation. <br>
+  <br>
+
+  His literary achievements include the 5th Kumanichi Publishing Culture Award in 2014 for <br>
+  Phantom Years and the Kumanichi Literary Award in 2016 for Family Philosophy. His other <br>
+  notable works include Zero-Starting Urban Hunting and Foraging Life, Haiku Taxi, and Reality <br>
+  Dwelling. <br>
+  <br>
+
+button: 
+  label: "Return"
+  link: "#"
